@@ -12,7 +12,7 @@
 
 
 ### Cool projects
-- [Finding maximal cliques and maximal common subgraphs in cliques](https://github.com/PrusWielki/graphs-maximal-clique)
+- [Finding maximal cliques and maximal common subgraphs](https://github.com/PrusWielki/graphs-maximal-clique)
 - [Generating 1 billion digits of $\pi$](https://github.com/PrusWielki/pi-generator)
 - [Gym tracker with statistics and plans creation](https://github.com/PrusWielki/Gym-Notebook)
 - [Uber-like system simulation using Multi-Agent System and cutting-edge technology: AgentsAssembly](https://github.com/PrusWielki/AgentsAssemblyUber)
