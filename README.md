@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**PrusWielki/PrusWielki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Studying Computer Science @ Warsaw University of Technology, Poland :blue_book:
 
-Here are some ideas to get you started:
+### Working as Frontend dev @ Accenture :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on a mental well-being platform that combines the power of TEAM-CBT and MBCT psychotherapy to combat mental health issues :fire:
+
+### In love with Svelte :heart:
+
+### Reach me on [LinkedIn](https://www.linkedin.com/in/patryk-prusak/) 
+
+
+### Cool projects
+- [Finding maximal cliques and maximal common subgraphs in cliques](https://github.com/PrusWielki/graphs-maximal-clique)
+- [Generating 1 billion digits of $\pi$](https://github.com/PrusWielki/pi-generator)
+- [Gym tracker with statistics and plans creation](https://github.com/PrusWielki/Gym-Notebook)
+- [Uber-like system simulation using Multi-Agent System and cutting-edge technology: AgentsAssembly](https://github.com/PrusWielki/AgentsAssemblyUber)
+- [Sudoku solver via gpu](https://github.com/PrusWielki/CUDA_Sudoku_Solver)
+- [POSIX-compliant file indexing](https://github.com/PrusWielki/File_Indexing)
