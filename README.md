@@ -4,7 +4,7 @@
 
 ### Working as Frontend dev @ Accenture :computer:
 
-### Currently working on a mental well-being platform that combines the power of TEAM-CBT and MBCT psychotherapy to combat mental health issues :fire:
+### Currently working on a mental well-being platform that combines the power of [TEAM-CBT](https://feelinggood.com/) and MBCT psychotherapy to combat mental health issues :fire:
 
 ### In love with Svelte :heart:
 
