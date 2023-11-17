@@ -18,3 +18,4 @@
 - [Uber-like system simulation using Multi-Agent System and cutting-edge technology: AgentsAssembly](https://github.com/PrusWielki/AgentsAssemblyUber)
 - [Sudoku solver via gpu](https://github.com/PrusWielki/CUDA_Sudoku_Solver)
 - [POSIX-compliant file indexing](https://github.com/PrusWielki/File_Indexing)
+- [TEAM-CBT implemented in a form of a webpage](https://github.com/PrusWielki/WEBCBT)
