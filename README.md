@@ -13,6 +13,7 @@
 
 ### Cool projects
 - [Finding maximal cliques and maximal common subgraphs](https://github.com/PrusWielki/graphs-maximal-clique)
+- [Face Recognition with a trained CNN machine learning model](https://github.com/PrusWielki/AgeRecognition)
 - [Generating 1 billion digits of π](https://github.com/PrusWielki/pi-generator)
 - [Gym tracker with statistics and plans creation](https://github.com/PrusWielki/Gym-Notebook)
 - [Uber-like system simulation using Multi-Agent System and cutting-edge technology: AgentsAssembly](https://github.com/PrusWielki/AgentsAssemblyUber)
