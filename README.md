@@ -20,4 +20,5 @@
 - [Progressive Web App with mental health tests and statistics](https://github.com/PrusWielki/BurnsTests)
 - [Sudoku solver via gpu](https://github.com/PrusWielki/CUDA_Sudoku_Solver)
 - [POSIX-compliant file indexing](https://github.com/PrusWielki/File_Indexing)
-- [TEAM-CBT implemented in a form of a webpage](https://github.com/PrusWielki/WEBCBT)
+- [TEAM-CBT implemented in the form of a webpage](https://github.com/PrusWielki/WEBCBT)
+- [Parking system developed under Netcompany's supervision](https://github.com/pwitkiewicz/Parkly)
