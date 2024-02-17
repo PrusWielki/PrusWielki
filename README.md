@@ -1,6 +1,7 @@
 ### Hello 👋
 
-### Studying Computer Science @ Warsaw University of Technology, Poland :blue_book:
+### Computer Science and Information Systems graduate @ Warsaw University of Technology, Poland 📗
+### Pursuing Master's in Data Science @ Warsaw University of Technology, Poland 📘
 
 ### Working as Frontend dev @ Accenture :computer:
 
