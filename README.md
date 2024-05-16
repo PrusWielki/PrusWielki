@@ -29,6 +29,7 @@
 - [Finding maximal cliques and maximal common subgraphs](https://github.com/PrusWielki/graphs-maximal-clique)
 - [Generating 1 billion digits of π](https://github.com/PrusWielki/pi-generator)
 - [Sudoku solver via gpu](https://github.com/PrusWielki/CUDA_Sudoku_Solver)
+- [Hamming Distance via cpu vs gpu](https://github.com/PrusWielki/CUDA_Hamming_One)
 - [Uber-like system simulation using Multi-Agent System and cutting-edge technology: AgentsAssembly](https://github.com/PrusWielki/AgentsAssemblyUber)
 - [POSIX-compliant file indexing](https://github.com/PrusWielki/File_Indexing)
 
