@@ -13,13 +13,23 @@
 
 
 ### Cool projects
-- [Finding maximal cliques and maximal common subgraphs](https://github.com/PrusWielki/graphs-maximal-clique)
-- [Face Recognition with a trained CNN machine learning model](https://github.com/PrusWielki/AgeRecognition)
-- [Generating 1 billion digits of π](https://github.com/PrusWielki/pi-generator)
+
+#### Fullstack, Cloud, Application Development
 - [Gym tracker with statistics and plans creation](https://github.com/PrusWielki/Gym-Notebook)
-- [Uber-like system simulation using Multi-Agent System and cutting-edge technology: AgentsAssembly](https://github.com/PrusWielki/AgentsAssemblyUber)
 - [Progressive Web App with mental health tests and statistics](https://github.com/PrusWielki/BurnsTests)
-- [Sudoku solver via gpu](https://github.com/PrusWielki/CUDA_Sudoku_Solver)
-- [POSIX-compliant file indexing](https://github.com/PrusWielki/File_Indexing)
 - [TEAM-CBT implemented in the form of a webpage](https://github.com/PrusWielki/WEBCBT)
 - [Parking system developed under Netcompany's supervision](https://github.com/pwitkiewicz/Parkly)
+  
+#### Data Science, Machine Learning, Artificial Intelligence
+- [Face Recognition with a trained CNN machine learning model](https://github.com/PrusWielki/AgeRecognition)
+- [LDA, QDA, and NB implemented in Python from scratch](https://github.com/PrusWielki/adv-machine-learning-proj-1)
+- [Logistic Regression with different optimizers in Python from scratch](https://github.com/PrusWielki/advml-proj-1)
+  
+#### Data Structures and Algorithms, C, GPU, CUDA, Linux, POSIX, Agent Systems
+- [Finding maximal cliques and maximal common subgraphs](https://github.com/PrusWielki/graphs-maximal-clique)
+- [Generating 1 billion digits of π](https://github.com/PrusWielki/pi-generator)
+- [Sudoku solver via gpu](https://github.com/PrusWielki/CUDA_Sudoku_Solver)
+- [Uber-like system simulation using Multi-Agent System and cutting-edge technology: AgentsAssembly](https://github.com/PrusWielki/AgentsAssemblyUber)
+- [POSIX-compliant file indexing](https://github.com/PrusWielki/File_Indexing)
+
+
