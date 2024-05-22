@@ -3,7 +3,7 @@
 ### Computer Science and Information Systems graduate @ Warsaw University of Technology, Poland 📗
 ### Pursuing Master's in Data Science @ Warsaw University of Technology, Poland 📘
 
-### Working as Fullstack dev @ Accenture :computer:
+### Working as Frontend dev @ Accenture :computer:
 
 ### Currently working on a mental well-being platform that combines the power of [TEAM-CBT](https://feelinggood.com/) and MBCT psychotherapy to combat mental health issues 🧠
 
