@@ -3,7 +3,7 @@
 ### Computer Science and Information Systems graduate @ Warsaw University of Technology, Poland 📗
 ### Pursuing Master's in Data Science @ Warsaw University of Technology, Poland 📘
 
-### Working as Frontend dev @ Accenture :computer:
+### Working as Fullstack dev @ Accenture :computer:
 
 ### Currently working on a mental well-being platform that combines the power of [TEAM-CBT](https://feelinggood.com/) and MBCT psychotherapy to combat mental health issues 🧠
 
@@ -15,6 +15,7 @@
 ### Cool projects
 
 #### Fullstack, Cloud, Application Development
+- [Scalable OCR and summary PWA deployed on Google Cloud Platform, developed under the supervision of Google](https://github.com/PrusWielki/NotesReader)
 - [Gym tracker with statistics and plans creation](https://github.com/PrusWielki/Gym-Notebook)
 - [Progressive Web App with mental health tests and statistics](https://github.com/PrusWielki/BurnsTests)
 - [TEAM-CBT implemented in the form of a webpage](https://github.com/PrusWielki/WEBCBT)
