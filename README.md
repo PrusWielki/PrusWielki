@@ -25,6 +25,9 @@
 - [Face Recognition with a trained CNN machine learning model](https://github.com/PrusWielki/AgeRecognition)
 - [LDA, QDA, and NB implemented in Python from scratch](https://github.com/PrusWielki/adv-machine-learning-proj-1)
 - [Logistic Regression with different optimizers in Python from scratch](https://github.com/PrusWielki/advml-proj-1)
+- [Finding the best combination of a feature selector and a classifier to achieve the best possible accuracy with the least amount of features used](https://github.com/PrusWielki/advml-proj-2)
+- [Different data extraction, representation, and visualization techniques](https://github.com/PrusWielki/Data-Exploration-and-Visualisation)
+- [eQTL analysis](https://github.com/PrusWielki/Computational-Genomics)
   
 #### Data Structures and Algorithms, C, GPU, CUDA, Linux, POSIX, Agent Systems
 - [Finding maximal cliques and maximal common subgraphs](https://github.com/PrusWielki/graphs-maximal-clique)
