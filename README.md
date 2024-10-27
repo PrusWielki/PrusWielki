@@ -1,14 +1,14 @@
-## Hello 👋
 
-**Computer Science and Information Systems graduate @ Warsaw University of Technology, Poland 📗**
 
-**Pursuing Master's in Data Science @ Warsaw University of Technology, Poland 📘**
+**Computer Science and Information Systems graduate @ Warsaw University of Technology, Poland**
 
-**Working as Full Stack dev @ Accenture :computer:**
+**Pursuing Master's in Data Science @ Warsaw University of Technology, Poland**
 
-**Currently working on a mental well-being platform that combines the power of [TEAM-CBT](https://feelinggood.com/) and MBCT psychotherapy to combat mental health issues 🧠**
+**Working as Full Stack dev @ Accenture**
 
-**In love with [Svelte](https://github.com/sveltejs/svelte) :heart:**
+**Currently working on a mental well-being platform that combines the power of [TEAM-CBT](https://feelinggood.com/) and MBCT psychotherapy to combat mental health issues**
+
+**In love with [Svelte](https://github.com/sveltejs/svelte)**
 
 ***Reach me on [LinkedIn](https://www.linkedin.com/in/patryk-prusak/)***
 
