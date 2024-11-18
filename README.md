@@ -23,6 +23,7 @@
 - [Parking system developed under Netcompany's supervision](https://github.com/pwitkiewicz/Parkly)
   
 ### Data Science, Machine Learning, Artificial Intelligence
+- [Deep Learning, CNNs, Transformers, image generators](https://github.com/PrusWielki/Deep-Learning)
 - [Face Recognition with a trained CNN machine learning model](https://github.com/PrusWielki/AgeRecognition)
 - [LDA, QDA, and NB implemented in Python from scratch](https://github.com/PrusWielki/adv-machine-learning-proj-1)
 - [Logistic Regression with different optimizers in Python from scratch](https://github.com/PrusWielki/advml-proj-1)
