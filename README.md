@@ -16,7 +16,7 @@
 ## Cool projects:
 
 ### Fullstack, Cloud, Application Development
-- [A real-time financial transaction processing system designed to detect fraudulent activities using big data technologies (Docker, Apache Hive, Hadoop, Cassandra, Spark, Nifi, Kafka, Superset) and advanced machine learning algorithms](https://github.com/salveendutt/Big-Data-Analytics)
+- [A real-time financial transaction processing system designed to detect fraudulent activities using big data technologies (Docker, Apache Hive, Hadoop, Cassandra, Spark, Nifi, Kafka, Superset) and advanced machine learning algorithms](https://github.com/PrusWielki/real-time-fraud-detection)
 - [Scalable OCR and summary PWA deployed on Google Cloud Platform, developed under the supervision of Google](https://github.com/PrusWielki/NotesReader)
 - [Gym tracker with statistics and plans creation](https://github.com/PrusWielki/Gym-Notebook)
 - [Progressive Web App with mental health tests and statistics](https://github.com/PrusWielki/BurnsTests)
