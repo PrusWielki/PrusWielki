@@ -26,6 +26,7 @@
 ### Data Science, Machine Learning, Artificial Intelligence
 - [Deep Learning, CNNs, Transformers, image generators](https://github.com/PrusWielki/Deep-Learning)
 - [Face Recognition with a trained CNN machine learning model](https://github.com/PrusWielki/AgeRecognition)
+- [Cyclic Coordinate Descent for Logistic Regression with Lasso regularization](https://github.com/PrusWielki/ccg-logistic-regression)
 - [LDA, QDA, and NB implemented in Python from scratch](https://github.com/PrusWielki/adv-machine-learning-proj-1)
 - [Logistic Regression with different optimizers in Python from scratch](https://github.com/PrusWielki/advml-proj-1)
 - [Finding the best combination of a feature selector and a classifier to achieve the best possible accuracy with the least amount of features used](https://github.com/PrusWielki/advml-proj-2)
