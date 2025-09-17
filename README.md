@@ -24,12 +24,12 @@
 - [Parking system developed under Netcompany's supervision](https://github.com/pwitkiewicz/Parkly)
   
 ### Data Science, Machine Learning, Artificial Intelligence
-- [Deep Learning, CNNs, Transformers, image generators](https://github.com/PrusWielki/Deep-Learning)
+- [Finding the best combination of a feature selector and a classifier to achieve the best possible accuracy with the least amount of features used](https://github.com/PrusWielki/electricity-usage-prediction-for-energy-efficiency-initiative)
 - [Cyclic Coordinate Descent for Logistic Regression with Lasso regularization](https://github.com/PrusWielki/ccg-logistic-regression)
+- [Deep Learning, CNNs, Transformers, image generators](https://github.com/PrusWielki/Deep-Learning)
 - [Face Recognition with a trained CNN machine learning model](https://github.com/PrusWielki/AgeRecognition)
 - [LDA, QDA, and NB implemented in Python from scratch](https://github.com/PrusWielki/adv-machine-learning-proj-1)
 - [Logistic Regression with different optimizers in Python from scratch](https://github.com/PrusWielki/advml-proj-1)
-- [Finding the best combination of a feature selector and a classifier to achieve the best possible accuracy with the least amount of features used](https://github.com/PrusWielki/advml-proj-2)
 - [Different data extraction, representation, and visualization techniques](https://github.com/PrusWielki/Data-Exploration-and-Visualisation)
 - [eQTL analysis](https://github.com/PrusWielki/Computational-Genomics)
   
