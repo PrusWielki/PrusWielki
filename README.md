@@ -24,7 +24,7 @@
 - [Parking system developed under Netcompany's supervision](https://github.com/pwitkiewicz/Parkly)
   
 ### Data Science, Machine Learning, Artificial Intelligence
-- [Finding the best combination of a feature selector and a classifier to achieve the best possible accuracy with the least amount of features used](https://github.com/PrusWielki/electricity-usage-prediction-for-energy-efficiency-initiative)
+- [Finding the best combination of a feature selector and a classifier to achieve the best possible accuracy with the least amount of features used](https://github.com/PrusWielki/electricity-usage-prediction)
 - [Cyclic Coordinate Descent for Logistic Regression with Lasso regularization](https://github.com/PrusWielki/ccg-logistic-regression)
 - [Deep Learning, CNNs, Transformers, image generators](https://github.com/PrusWielki/Deep-Learning)
 - [Face Recognition with a trained CNN machine learning model](https://github.com/PrusWielki/AgeRecognition)
