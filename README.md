@@ -1,6 +1,4 @@
-**Computer Science and Information Systems graduate @ Warsaw University of Technology, Poland**
-
-**Pursuing Master's in Data Science @ Warsaw University of Technology, Poland**
+**Master's in Data Science and Bachelor's in Computer Science and Information Systems graduate @ Warsaw University of Technology, Poland**
 
 **Working as Senior Full Stack dev @ Accenture**
 
