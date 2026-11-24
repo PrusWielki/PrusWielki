@@ -1,8 +1,13 @@
-**Master's in Data Science and Bachelor's in Computer Science and Information Systems graduate @ Warsaw University of Technology, Poland**
+### Hi, I'm Patryk 👋
 
-**Working as Senior Full Stack dev @ Accenture**
+**Senior Full-Stack & AI Engineer @ Accenture** · Warsaw, Poland
 
-**In love with [Svelte](https://github.com/sveltejs/svelte)**
+I build agentic systems and AI-assisted engineering workflows on top of a full-stack foundation (React, TypeScript, Python, PHP, GraphQL).
+
+- 🤖 Led an 8-person team building an **AI software factory**: an agentic harness that turns designs into deployed mobile and web apps in 2–4 hours
+- 🕸️ Built a **codebase GraphRAG** served to CLI coding tools through an **MCP server** (~20% lower cost, ~17% faster responses in testing)
+- 🎓 **MSc in Data Science** (summa cum laude) @ Warsaw University of Technology, thesis on 3D chromatin modelling with a full-stack [modelling and validation platform](https://multimm.mini.pw.edu.pl)
+- 🎓 **BSc in Computer Science and Information Systems** @ Warsaw University of Technology
 
 **_Reach me on [LinkedIn](https://www.linkedin.com/in/patryk-prusak/)_**
 
